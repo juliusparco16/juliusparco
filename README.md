@@ -13,13 +13,13 @@
 </p>
 
 ### 🧑‍💻 About Me:
-- 🔭 I’m currently working on **Java Spring Boot projects for international banking clients**
-- 🌱 I’m currently learning **Advanced Reporting Systems and Database Development**
-- 👯 I’m looking to collaborate on **open source projects related to financial technologies**
-- 🤔 I’m looking for help with **latest cloud technologies**
-- 💬 Ask me about **Java, Oracle Cloud Solutions, and Agile methodologies**
+- 🔭 I’m currently an independent **Full-Stack Developer working on Java Spring Boot projects for international banking clients.**
+- 🌱 I recently completed an Ontario College Graduate Certificate in **Reporting Systems and Database Development.**
+- 👯 I'm looking to collaborate on **open source projects related to financial technologies.**
+- 🤔 I'm exploring advancements in **Oracle Cloud Infrastructure to enhance digital transformations in banking.**
+- 💬 Ask me about **Java, Oracle Cloud Solutions, and how to manage full project lifecycles with Agile methodologies.**
 - 📫 How to reach me: **juliusparco@yahoo.com**
-- ⚡ Fun fact: **I love to attend tech meetups and hackathons**
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Java and related technologies -->
@@ -41,16 +41,11 @@
 </p>
 
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusparco16&theme=blue-green&hide_border=true&layout=compact" alt="juliusparco16" />
   <img src="https://github-readme-stats.vercel.app/api?username=juliusparco16&show_icons=true&theme=blue-green&hide_border=true" alt="juliusparco16" />
 </p>
-
-<!--### 💼 Where to find me:
-<p align="left">
-  
-</p>-->
 
 ### ☕ Support Me:
 <p align="left">
