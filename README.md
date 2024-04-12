@@ -41,9 +41,19 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/juliusparco"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="juliusparco" /></a><a href="https://ko-fi.com/juliusparco"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="juliusparco" /></a></p><br><br>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusparco16&theme=blue-green&hide_border=true&layout=compact" alt="juliusparco16" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliusparco16&show_icons=true&theme=blue-green&hide_border=true" alt="juliusparco16" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliusparco16&show_icons=true&locale=en&layout=compact" alt="juliusparco16" /></p>
+<!--### 💼 Where to find me:
+<p align="left">
+  
+</p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusparco16&show_icons=true&locale=en" alt="juliusparco16" /></p>
+### ☕ Support Me:
+<p align="left">
+  <a href="https://www.buymeacoffee.com/juliusparco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+  <a href="https://ko-fi.com/juliusparco"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-Fi" width="150"></a>
+</p>
