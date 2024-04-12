@@ -20,6 +20,44 @@
 - 💬 Ask me about **Java, Oracle Cloud Solutions, and how to manage full project lifecycles with Agile methodologies.**
 - 📫 How to reach me: **juliusparco@yahoo.com**
 
+### 💼 Key Projects
+
+#### 1. Java Spring Boot Development for Banking Clients
+- **Description**: Led the development and implementation of several backend solutions for international banking clients, focusing on secure and efficient API integrations and robust backend functionalities using Java Spring Boot.
+- **Technologies Used**: Java, Spring Boot, Angular, React, Oracle Cloud.
+- **Challenges Addressed**: Navigated complex data integration challenges and strict security requirements to provide scalable banking solutions.
+- **Impact**: Improved system efficiency by 15%, leading to higher client satisfaction and repeat engagements.
+
+#### 2. Intelligent Data Platform - Accenture
+- **Description**: Served as a Project Lead on an in-house platform that leverages Java and J2EE to provide comprehensive data profiling and processing capabilities.
+- **Technologies Used**: Python, Machine Learning, Django, Docker, Oracle Database.
+- **Challenges Addressed**: Developed a Python-based Machine Learning algorithm to enhance data quality through improved deduplication and imputation processes.
+- **Impact**: Achieved a 25% enhancement in data quality, significantly improving data analytics capabilities for internal stakeholders.
+
+#### 3. Guardrail Application for an International Bank
+- **Description**: Led a team to develop the Guardrail application, enhancing security measures for an international bank's customer transactions.
+- **Technologies Used**: Python, Flask-SQLAlchemy, Security Protocols.
+- **Challenges Addressed**: Implemented advanced security measures to safeguard sensitive customer data and transactions.
+- **Impact**: Successfully reinforced customer trust and compliance with international security standards.
+
+#### 4. Home Improvement Retail Project - Groovy Enhancements
+- **Description**: Acted as the primary resource addressing Groovy-related defects for a major Australian home improvement retailer, ensuring adherence to SLAs.
+- **Technologies Used**: Groovy, Java, Spring Framework.
+- **Challenges Addressed**: Quickly adapted and resolved critical Groovy script issues under tight deadlines.
+- **Impact**: Enhanced client satisfaction through rapid and effective problem resolution in a critical live environment.
+
+#### 5. Real-Time Online Banking (RTOB) - Standard Chartered Bank
+- **Description**: Spearheaded the development of a real-time online banking system to facilitate immediate banking transactions across multiple platforms in Singapore and India.
+- **Technologies Used**: Java, J2EE, Maven, Spring, Hibernate.
+- **Challenges Addressed**: Focused on real-time data processing and integration challenges, ensuring high availability and security compliance in transaction processing.
+- **Impact**: The system significantly enhanced the user experience by providing faster and more reliable banking services, contributing to increased customer retention.
+
+#### 6. Integrated Statement Solution - Standard Chartered Bank
+- **Description**: Develop integrated solutions for generating consolidated account statements, enhancing the informational accessibility for global clients.
+- **Technologies Used**: Java, Oracle SQL, J2EE, Spring Framework.
+- **Challenges Addressed**: Managed complex data from various banking products and ensured accurate, timely delivery of financial statements.
+- **Impact**: This project streamlined the customer experience and improved the efficiency of financial reporting systems, leading to enhanced customer satisfaction and operational excellence.
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Java and related technologies -->
