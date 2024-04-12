@@ -1,30 +1,25 @@
 <h1 align="center">Hi 👋, I'm Julius Parco</h1>
 <h3 align="center">Technical Lead & Senior Full-Stack Developer | Oracle Cloud Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliusparco16&label=Profile%20views&color=0e75b6&style=flat" alt="juliusparco16" /> </p>
-
-- 🔭 I’m currently working on **Java Spring Boot projects for international banking clients, focusing on backend development, API integration, and front-end solutions using React and Angular.**
-
-- 🌱 I’m currently learning **Advanced Reporting Systems and Database Development at Conestoga College.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/juliusparco16](https://github.com/juliusparco16)
-
-- 📝 I regularly write articles on [https://juliusparco.medium.com/](https://juliusparco.medium.com/)
-
-- 💬 Ask me about **Java, Oracle Cloud Solutions, and Agile methodologies.**
-
-- 📫 How to reach me **juliusparco@yahoo.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/juliusparco](https://www.linkedin.com/in/juliusparco)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juliusparco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliusparco" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/javaneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="javaneer" height="30" width="40" /></a>
-<a href="https://fb.com/juliusparco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juliusparco" height="30" width="40" /></a>
-<a href="https://instagram.com/juliuscurious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliusparco" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juliusparco16&label=Profile%20views&color=0e75b6&style=flat-square" alt="juliusparco16" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/juliusparco" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="juliusparco" /></a>
+  <a href="https://stackoverflow.com/users/javaneer" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="javaneer" /></a>
+  <a href="https://fb.com/juliusparco" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="juliusparco" /></a>
+  <a href="https://instagram.com/juliusparco" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="juliusparco" /></a>
+</p>
+
+### 🧑‍💻 About Me:
+- 🔭 I’m currently working on **Java Spring Boot projects for international banking clients**
+- 🌱 I’m currently learning **Advanced Reporting Systems and Database Development**
+- 👯 I’m looking to collaborate on **open source projects related to financial technologies**
+- 🤔 I’m looking for help with **latest cloud technologies**
+- 💬 Ask me about **Java, Oracle Cloud Solutions, and Agile methodologies**
+- 📫 How to reach me: **juliusparco@yahoo.com**
+- ⚡ Fun fact: **I love to attend tech meetups and hackathons**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Java and related technologies -->
